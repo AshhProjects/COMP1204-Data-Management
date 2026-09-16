@@ -1,0 +1,161 @@
+commit b295d99e5f301c7bbb4ca70f7391f77f53640236
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:44:15 2023 +0000
+
+    git.log file generated from "git log > git.log"
+
+commit b890c15a8e84858b5fb65d12e6abeb6f8774f603
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:42:56 2023 +0000
+
+    Log file generated from overleaf, of the report.
+
+commit d8ba48d0c51585a6aa60f53314ed61be6fcd2d2d
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:39:40 2023 +0000
+
+    Recompiled after .tex file was fixed
+
+commit 6e1f21a2cd4ace64365dfee72981eef4731d0133
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:39:17 2023 +0000
+
+    Fixed warnings/errors of compilation
+
+commit f1dc9e1d5884de99773ecbd0c0ac6e3f9e345a3c
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:30:57 2023 +0000
+
+    file compiled from overleaf of the report.tex file
+
+commit 2ecdd8a5d87d7eb704a04f5bbd0777c73d641b87
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:26:11 2023 +0000
+
+    fixed some spelling and grammar issues.
+
+commit a1e29f93bd9a8e337f6e39d15e165f5c8162a166
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 19:07:28 2023 +0000
+
+    Updated report.tex, made very few changes
+
+commit 68bfc253b549f2de693147e41d3c4099f7ef6d02
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Thu Mar 16 18:07:35 2023 +0000
+
+    raw Latex file for the report
+
+commit 468f7d1c38fed6d229238e5e18263372aaa4dff8
+Merge: ce76056 9e8f436
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Wed Mar 15 16:42:01 2023 +0000
+
+    Resolved merge conflict with python-plot-script.py
+
+commit ce76056c0f4dda06e54d58fc58669c7953778a97
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Wed Mar 15 15:58:47 2023 +0000
+
+    Initial creation of python-plot-script from working branch
+
+commit 9e8f436001177184719886939595a985e7a2dbc4
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Wed Mar 15 15:58:47 2023 +0000
+
+    Added new function to the python-plot-script from python-addon
+
+commit 8a7fd8c6b06336bd25a6aadfbdf24526004658d2
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 20:12:47 2023 +0000
+
+    removes spaces between storm information
+
+commit 0fda4c5d3f48b215886d0afd0e99fe557d52bc3f
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 20:07:31 2023 +0000
+
+    separates longitude and latitude
+
+commit 28aeca38dd90f531ff1de6623fc8c379290317b1
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 19:51:45 2023 +0000
+
+    reports pressure in mb, intensity in knots
+
+commit e508f0d406f3b1bb9c7f9adfaeba8c9ff77fdfc9
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 19:18:52 2023 +0000
+
+    outputs basic storm information
+
+commit 88f143c95e49caa858060a581f7f32e2dea7579e
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:45:25 2023 +0000
+
+    while loop printing each line number of CDATA (-1)
+
+commit 50e09ae17044f87fa6bfb706989ba100c228cb8d
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:42:41 2023 +0000
+
+    removes inclusion of first line number of CDATA's
+
+commit 05dc76902a15ed09cbce211cc47dd799444f3f6c
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:39:45 2023 +0000
+
+    prints line numbers where 'CDATA' is found
+
+commit 34632989832b1a0956e5e892f4878ea1e9af789c
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:35:25 2023 +0000
+
+    Outputs the first line to the output file argument
+
+commit 9b4bdf536395cb079f88ca493f53f5b54cfc67e0
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:25:38 2023 +0000
+
+    Script takes in two arguments, and prints them out
+
+commit c2a35a3d4688254b7c8944e3c231731c48f80e2f
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:22:19 2023 +0000
+
+    initial test 3
+
+commit 5fc7a6ca25b5c7ceacd1189efba2249e536d7a70
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:22:04 2023 +0000
+
+    initial test 2
+
+commit 6bcf585a8d59672a83db0d200171a8c88e3773d4
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:20:55 2023 +0000
+
+    Initial commit/push test
+
+commit feec425ccd766e7481c7686b07bcc850ac546593
+Merge: bc5a213 a53cdcb
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 18:15:03 2023 +0000
+
+    Merge branch 'master' into 'main'
+    
+    initial file, used to generate CSV files from KML files
+    
+    See merge request aha1g22/comp1204-aha1g22-cwk1!1
+
+commit a53cdcbee74bfba1c9079e849962d03a9912a61d
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Tue Mar 14 17:52:30 2023 +0000
+
+    initial file, used to generate CSV files from KML files
+
+commit bc5a2136c11685d027e68f0e053cbb49afce0760
+Author: aha1g22 <aha1g22@soton.ac.uk>
+Date:   Sun Mar 12 21:04:38 2023 +0000
+
+    Initial commit
